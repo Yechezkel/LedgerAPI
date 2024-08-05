@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LedgerAPI", "LedgerAPI\LedgerAPI.csproj", "{ACE298E1-CF19-4ADC-A74A-32CF3581D8CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACE298E1-CF19-4ADC-A74A-32CF3581D8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE298E1-CF19-4ADC-A74A-32CF3581D8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE298E1-CF19-4ADC-A74A-32CF3581D8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE298E1-CF19-4ADC-A74A-32CF3581D8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6600C254-55C7-4AA3-9D28-EB9AB3BC76B3}
+	EndGlobalSection
+EndGlobal
